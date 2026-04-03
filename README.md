@@ -26,9 +26,10 @@ I'm Oluwadara Adedeji, you can call me Dara. I am a machine learning researcher 
 - 💬 Life Mantra: Do crazy things; get crazy results. 
 
 ### GitHub Stats
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=darasiemi&show_icons=true&theme=radical)
+![Dara's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darasiemi&theme=radical) 
+<!-- ![YourName's github stats](https://github-readme-stats.vercel.app/api?username=darasiemi&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darasiemi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darasiemi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=flat&logo=apache-spark&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
