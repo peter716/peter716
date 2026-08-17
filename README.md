@@ -40,7 +40,7 @@ I'm Oluwadara Adedeji, you can call me Dara. I am a machine learning researcher 
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwadara-adedeji-183770106/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/darasiemi?s=21&t=AGTRuSULcEQT0I-AGO9aHg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwadara-adedeji/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/darasiemi?s=21&t=AGTRuSULcEQT0I-AGO9aHg)
 
 
 
